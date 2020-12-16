@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const DataCard = ()  => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+const DataCard = () => {
+  return <div></div>;
+};
 
-export default DataCard
+export default DataCard;
